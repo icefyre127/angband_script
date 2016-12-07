@@ -1,0 +1,17 @@
+Type = amulet
+Type = boots
+Type = bow
+Type = cloak
+Type = crown
+Type = digger
+Type = dragon armour
+Type = gloves
+Type = hafted
+Type = hard armour
+Type = helm
+Type = light
+Type = polearm
+Type = ring
+Type = shield
+Type = soft armour
+Type = sword
