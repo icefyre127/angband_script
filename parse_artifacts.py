@@ -4,7 +4,7 @@ import itertools
 
 
 
-class artifact:
+class Artifact:
     def __init__(self):
         self.base_name = "no base name"
         self.qualified = "no qualifier"
@@ -76,10 +76,18 @@ def check_combos(items):
         elif (item.item_type in ["crown","helm"]):
            helmets.append(item)
 
-#    ring_combos = itertools.product(rings,rings)
+    #calculate all ring combinations for two rings       
+    ring_combos = itertools.combinations(rings,2)
 
+  #  for rings in ring_combos:
+   #     print type(rings)
+    #    print type(ring_combos)
+        #print "Ring1: %s\nRing2: %s\n\n" % (rings[0].qualifier,rings[1].qualifier)
+        
     
-    combos = itertools.product(armours,weapons,amulets,helmets,gloves,rings,shields,boots,bows)
+    combos = itertools.product(armours,weapons,amulets,helmets,gloves,ring_combos,shields,boots,bows)
+    #for item in combos:
+     #     print item
 
     
     max_coverage = 0  #maximum number of flags/resists found so far
@@ -91,8 +99,12 @@ def check_combos(items):
     for combo in combos:
          valflag = []  #stores unignored resists/flags for equipment set 
          for item in combo:
-             if ["CURSED","AGGREVATE"] not in item.flags: #exclude all cursed or aggrevation causing equipment
+             #first clause of IF statement deals with ring combinations, second clause deals with all other artifacts
+             if (not isinstance(item,Artifact)):
+                 valflag += item[0].flags + item[0].resistances() + item[1].flags + item[1].resistances()
+             else:
                  valflag += item.flags+item.resistances()
+
          total_coverage = len(set(valflag))
 
          values = set(valflag) #get only unique resists/flags for equipment and store them in values
@@ -112,7 +124,13 @@ def check_combos(items):
     for combo in best_combos:
 #        print "\n==========\n"
         for item in combo[1]:
-            print "%s: %s %s\n" % (item.item_type, item.base_name,item.qualifier)        
+            #First part of IF statement deals with printing out ring combinations, second part deals all other artifacts
+            if (not isinstance(item,Artifact)):
+                print "Ring1: %s %s\n" % (item[0].base_name,item[0].qualifier)
+                print "Ring2: %s %s\n" % (item[1].base_name,item[1].qualifier)
+            else:
+                print "%s: %s %s\n" % (item.item_type, item.base_name,item.qualifier)        
+
         print "Valflag:\n%s\nNumber of flags/resists = %d" % (combo[0], len(combo[0]))
         print "\n==========\n"
         
@@ -152,7 +170,7 @@ with open("artifact_test.txt") as artifact_file:
 
         
         if (field_name == "name"):
-            cur_artifact = artifact()
+            cur_artifact = Artifact()
             cur_artifact.qualifier = fields[2].strip()
             
         elif (field_name  == "base-object"):

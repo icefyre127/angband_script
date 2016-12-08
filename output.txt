@@ -2,15 +2,69 @@ Best equipment combinations are:
 
 dragon armour: Balance Dragon Scale Mail 'Mediator'
 
+sword: Long Sword 'Ringil'
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Caestus of Fingolfin
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Small Metal Shield of Thorin
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+sword: Long Sword 'Ringil'
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Caestus of Fingolfin
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Small Metal Shield of Thorin
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
 polearm: Trident of Ulmo
 
-amulet: Necklace of the Dwarves
+amulet: Amulet of Carlammas
 
 helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -19,8 +73,8 @@ boots: Pair of Leather Boots of Fëanor
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -28,13 +82,15 @@ dragon armour: Balance Dragon Scale Mail 'Mediator'
 
 polearm: Trident of Ulmo
 
-amulet: Necklace of the Dwarves
+amulet: Amulet of Carlammas
 
 helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -43,8 +99,8 @@ boots: Pair of Leather Boots of Fëanor
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -52,13 +108,15 @@ dragon armour: Balance Dragon Scale Mail 'Mediator'
 
 polearm: Trident of Ulmo
 
-amulet: Necklace of the Dwarves
+amulet: Amulet of Carlammas
 
 helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -67,8 +125,8 @@ boots: Pair of Leather Boots of Fëanor
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -76,13 +134,15 @@ dragon armour: Balance Dragon Scale Mail 'Mediator'
 
 polearm: Trident of Ulmo
 
-amulet: Necklace of the Dwarves
+amulet: Amulet of Carlammas
 
 helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -91,8 +151,1464 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Amulet of Carlammas
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Amulet of Carlammas
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Amulet of Carlammas
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Amulet of Carlammas
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Amulet of Carlammas
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Amulet of Carlammas
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Amulet of Carlammas
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Amulet of Carlammas
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Hard Leather Cap of Thranduil
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm of Dor-Lómin
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -106,17 +1622,19 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
-boots: Pair of Mithril Shod Boots 'Stormwalker'
+boots: Pair of Leather Boots of Fëanor
 
-bow: Light Crossbow 'Cubragol'
+bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -130,55 +1648,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
 
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Short Bow of Amras
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Necklace of the Dwarves
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Firmament 'Vilya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Leather Boots of Fëanor
-
-bow: Long Bow 'Belthronding'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Necklace of the Dwarves
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Firmament 'Vilya'
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -187,8 +1659,8 @@ boots: Pair of Leather Boots of Fëanor
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -200,9 +1672,11 @@ amulet: Necklace of the Dwarves
 
 helm: Iron Helm 'Holhenneth'
 
-gloves: Set of Gauntlets 'Pauraegen'
+gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -211,8 +1685,8 @@ boots: Pair of Leather Boots of Fëanor
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -224,9 +1698,11 @@ amulet: Necklace of the Dwarves
 
 helm: Iron Helm 'Holhenneth'
 
-gloves: Set of Gauntlets 'Pauraegen'
+gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -235,8 +1711,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -248,9 +1724,11 @@ amulet: Necklace of the Dwarves
 
 helm: Iron Helm 'Holhenneth'
 
-gloves: Set of Gauntlets 'Pauraegen'
+gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -259,8 +1737,190 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -274,7 +1934,139 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -283,8 +2075,164 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Necklace of the Dwarves
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -298,7 +2246,9 @@ helm: Metal Cap of Thengel
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -307,8 +2257,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -322,7 +2272,9 @@ helm: Metal Cap of Thengel
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -331,8 +2283,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -346,7 +2298,9 @@ helm: Metal Cap of Thengel
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -355,8 +2309,164 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -370,7 +2480,9 @@ helm: Metal Cap of Thengel
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -379,8 +2491,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -394,7 +2506,9 @@ helm: Metal Cap of Thengel
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -403,8 +2517,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -418,7 +2532,9 @@ helm: Metal Cap of Thengel
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -427,8 +2543,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -438,155 +2554,13 @@ polearm: Trident of Ulmo
 
 amulet: Elfstone 'Elessar'
 
-helm: Iron Helm 'Holhenneth'
+helm: Metal Cap of Thengel
 
-gloves: Set of Leather Gloves 'Cammithrim'
+gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Fire 'Narya'
+Ring1: Ring of Adamant 'Nenya'
 
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Long Bow 'Belthronding'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Leather Gloves 'Cammithrim'
-
-ring: Ring of Fire 'Narya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Light Crossbow 'Cubragol'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Leather Gloves 'Cammithrim'
-
-ring: Ring of Fire 'Narya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Short Bow of Amras
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Leather Gloves 'Cammithrim'
-
-ring: Ring of Adamant 'Nenya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Long Bow 'Belthronding'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Leather Gloves 'Cammithrim'
-
-ring: Ring of Adamant 'Nenya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Light Crossbow 'Cubragol'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Leather Gloves 'Cammithrim'
-
-ring: Ring of Adamant 'Nenya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Short Bow of Amras
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Leather Gloves 'Cammithrim'
-
-ring: Ring of Firmament 'Vilya'
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -595,8 +2569,138 @@ boots: Pair of Leather Boots of Fëanor
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -610,17 +2714,19 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
-boots: Pair of Leather Boots of Fëanor
+boots: Pair of Mithril Shod Boots 'Stormwalker'
 
-bow: Light Crossbow 'Cubragol'
+bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -634,17 +2740,19 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
-boots: Pair of Leather Boots of Fëanor
+boots: Pair of Mithril Shod Boots 'Stormwalker'
 
-bow: Short Bow of Amras
+bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -658,17 +2766,19 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
 boots: Pair of Mithril Shod Boots 'Stormwalker'
 
-bow: Long Bow 'Belthronding'
+bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -682,17 +2792,19 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
-boots: Pair of Mithril Shod Boots 'Stormwalker'
+boots: Pair of Leather Boots of Fëanor
 
-bow: Light Crossbow 'Cubragol'
+bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -706,199 +2818,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
 
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Short Bow of Amras
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Fire 'Narya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Long Bow 'Belthronding'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Fire 'Narya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Light Crossbow 'Cubragol'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Fire 'Narya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Short Bow of Amras
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Adamant 'Nenya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Long Bow 'Belthronding'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Adamant 'Nenya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Light Crossbow 'Cubragol'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Adamant 'Nenya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Short Bow of Amras
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Firmament 'Vilya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Leather Boots of Fëanor
-
-bow: Long Bow 'Belthronding'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-dragon armour: Balance Dragon Scale Mail 'Mediator'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Firmament 'Vilya'
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -907,8 +2829,8 @@ boots: Pair of Leather Boots of Fëanor
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -920,9 +2842,11 @@ amulet: Elfstone 'Elessar'
 
 helm: Iron Helm 'Holhenneth'
 
-gloves: Set of Gauntlets 'Pauraegen'
+gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -931,8 +2855,8 @@ boots: Pair of Leather Boots of Fëanor
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -944,9 +2868,11 @@ amulet: Elfstone 'Elessar'
 
 helm: Iron Helm 'Holhenneth'
 
-gloves: Set of Gauntlets 'Pauraegen'
+gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -955,8 +2881,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -968,9 +2894,11 @@ amulet: Elfstone 'Elessar'
 
 helm: Iron Helm 'Holhenneth'
 
-gloves: Set of Gauntlets 'Pauraegen'
+gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -979,8 +2907,190 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -994,7 +3104,61 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Firmament 'Vilya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1003,8 +3167,476 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_COLD[3]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_DARK[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Metal Cap of Thengel
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1018,7 +3650,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Fire 'Narya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1027,8 +3661,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1042,7 +3676,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Fire 'Narya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1051,8 +3687,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1066,7 +3702,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Fire 'Narya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1075,8 +3713,164 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1090,7 +3884,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Fire 'Narya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1099,8 +3895,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1114,7 +3910,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Fire 'Narya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1123,8 +3921,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1138,7 +3936,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Fire 'Narya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1147,22 +3947,102 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
-hard armour: Adamantite Plate Mail 'Soulkeeper'
+dragon armour: Balance Dragon Scale Mail 'Mediator'
 
 polearm: Trident of Ulmo
 
-amulet: Pendant of Ingwë
+amulet: Jewel 'Evenstar'
 
-helm: Metal Cap of Celebrimbor
+helm: Iron Helm 'Holhenneth'
 
-gloves: Set of Leather Gloves 'Cammithrim'
+gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Leather Boots of Fëanor
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1171,22 +4051,24 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
-hard armour: Adamantite Plate Mail 'Soulkeeper'
+dragon armour: Balance Dragon Scale Mail 'Mediator'
 
 polearm: Trident of Ulmo
 
-amulet: Pendant of Ingwë
+amulet: Jewel 'Evenstar'
 
-helm: Metal Cap of Celebrimbor
+helm: Iron Helm 'Holhenneth'
 
-gloves: Set of Leather Gloves 'Cammithrim'
+gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1195,8 +4077,34 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+dragon armour: Balance Dragon Scale Mail 'Mediator'
+
+polearm: Trident of Ulmo
+
+amulet: Jewel 'Evenstar'
+
+helm: Iron Helm 'Holhenneth'
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_DISEN[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_COLD[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1210,31 +4118,9 @@ helm: Metal Cap of Celebrimbor
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
 
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Short Bow of Amras
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-hard armour: Adamantite Plate Mail 'Soulkeeper'
-
-polearm: Trident of Ulmo
-
-amulet: Pendant of Ingwë
-
-helm: Metal Cap of Celebrimbor
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Adamant 'Nenya'
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1243,8 +4129,138 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1258,17 +4274,19 @@ helm: Metal Cap of Celebrimbor
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
 boots: Pair of Mithril Shod Boots 'Stormwalker'
 
-bow: Light Crossbow 'Cubragol'
+bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1282,55 +4300,9 @@ helm: Metal Cap of Celebrimbor
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
 
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Short Bow of Amras
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-hard armour: Adamantite Plate Mail 'Soulkeeper'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Metal Cap of Celebrimbor
-
-gloves: Set of Leather Gloves 'Cammithrim'
-
-ring: Ring of Adamant 'Nenya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Long Bow 'Belthronding'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-hard armour: Adamantite Plate Mail 'Soulkeeper'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Metal Cap of Celebrimbor
-
-gloves: Set of Leather Gloves 'Cammithrim'
-
-ring: Ring of Adamant 'Nenya'
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1339,8 +4311,112 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Pendant of Ingwë
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Adamant 'Nenya'
+
+Ring2: Ring of Firmament 'Vilya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1354,31 +4430,9 @@ helm: Metal Cap of Celebrimbor
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
 
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Short Bow of Amras
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-hard armour: Adamantite Plate Mail 'Soulkeeper'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Metal Cap of Celebrimbor
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Adamant 'Nenya'
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1387,8 +4441,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1400,9 +4454,11 @@ amulet: Elfstone 'Elessar'
 
 helm: Metal Cap of Celebrimbor
 
-gloves: Set of Gauntlets 'Pauraegen'
+gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1411,8 +4467,34 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Light Crossbow 'Cubragol'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Leather Gloves 'Cammithrim'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Short Bow of Amras
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1426,7 +4508,61 @@ helm: Metal Cap of Celebrimbor
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Long Bow 'Belthronding'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
+
+shield: Large Metal Shield of Anárion
+
+boots: Pair of Mithril Shod Boots 'Stormwalker'
+
+bow: Light Crossbow 'Cubragol'
+
+Valflag:
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
+
+==========
+
+hard armour: Adamantite Plate Mail 'Soulkeeper'
+
+polearm: Trident of Ulmo
+
+amulet: Elfstone 'Elessar'
+
+helm: Metal Cap of Celebrimbor
+
+gloves: Set of Gauntlets 'Pauraegen'
+
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1435,8 +4571,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Short Bow of Amras
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'RES_SHARD[1]', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1450,7 +4586,9 @@ helm: Metal Cap of Thengel
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1459,8 +4597,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1474,7 +4612,9 @@ helm: Metal Cap of Thengel
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Adamant 'Nenya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1483,8 +4623,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1498,7 +4638,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Leather Gloves 'Cammithrim'
 
-ring: Ring of Fire 'Narya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1507,32 +4649,8 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
-
-==========
-
-hard armour: Adamantite Plate Mail 'Soulkeeper'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Leather Gloves 'Cammithrim'
-
-ring: Ring of Adamant 'Nenya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Long Bow 'Belthronding'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
@@ -1546,7 +4664,9 @@ helm: Iron Helm 'Holhenneth'
 
 gloves: Set of Gauntlets 'Pauraegen'
 
-ring: Ring of Fire 'Narya'
+Ring1: Ring of Fire 'Narya'
+
+Ring2: Ring of Adamant 'Nenya'
 
 shield: Large Metal Shield of Anárion
 
@@ -1555,33 +4675,9 @@ boots: Pair of Mithril Shod Boots 'Stormwalker'
 bow: Long Bow 'Belthronding'
 
 Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
-Number of flags/resists = 29
+set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]', 'RES_FIRE[3]'])
+Number of flags/resists = 30
 
 ==========
 
-hard armour: Adamantite Plate Mail 'Soulkeeper'
-
-polearm: Trident of Ulmo
-
-amulet: Elfstone 'Elessar'
-
-helm: Iron Helm 'Holhenneth'
-
-gloves: Set of Gauntlets 'Pauraegen'
-
-ring: Ring of Adamant 'Nenya'
-
-shield: Large Metal Shield of Anárion
-
-boots: Pair of Mithril Shod Boots 'Stormwalker'
-
-bow: Long Bow 'Belthronding'
-
-Valflag:
-set(['RES_NEXUS[1]', 'SUST_CON', 'RES_SOUND[1]', 'SEE_INVIS', 'PROT_FEAR', 'RES_COLD[1]', 'BLESSED', 'PROT_CONF', 'TELEPATHY', 'RES_ACID[1]', 'RES_DARK[1]', 'RES_ACID[3]', 'RES_ELEC[1]', 'HOLD_LIFE', 'RES_ELEC[3]', 'SUST_WIS', 'FREE_ACT', 'REGEN', 'SUST_DEX', 'PROT_BLIND', 'SUST_INT', 'RES_LIGHT[1]', 'RES_NETHER[1]', 'RES_DISEN[1]', 'RES_COLD[3]', 'RES_FIRE[1]', 'RES_POIS[1]', 'SUST_STR', 'RES_CHAOS[1]'])
-Number of flags/resists = 29
-
-==========
-
-Total number of combinations found: 66
+Total number of combinations found: 180
