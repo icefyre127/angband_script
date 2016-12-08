@@ -289,20 +289,20 @@ desc:It throbs with angry energies, and you feel the raw elemental might of
 desc:untamed Lightning as you put it on.
 
 
-name:17:'Bladeturner'
-base-object:dragon armour:Power Dragon Scale Mail
-info:100:250:500000
-alloc:6:100 to 127
-power:80:2d4:-8:0:35
-flags:HOLD_LIFE | REGEN | 
-flags:PROT_FEAR | PROT_BLIND | PROT_CONF 
-act:RAGE_BLESS_RESIST
-time:50
-values:RES_ACID[1] | RES_ELEC[1] | RES_FIRE[1] | RES_COLD[1] | RES_POIS[1]
-values:RES_LIGHT[1] | RES_DARK[1] | RES_SOUND[1] | RES_SHARD[1] | RES_NETHER[1]
-values:RES_NEXUS[1] | RES_CHAOS[1] | RES_DISEN[1]
-desc:An adamant suit with scales of every color.  Untrammelled powers elemental 
-desc:and ethereal swirl around it in an inextricably intermingled nimbus.
+#name:17:'Bladeturner'
+#base-object:dragon armour:Power Dragon Scale Mail
+#info:100:250:500000
+#alloc:6:100 to 127
+#power:80:2d4:-8:0:35
+#flags:HOLD_LIFE | REGEN | 
+#flags:PROT_FEAR | PROT_BLIND | PROT_CONF 
+#act:RAGE_BLESS_RESIST
+#time:50
+#values:RES_ACID[1] | RES_ELEC[1] | RES_FIRE[1] | RES_COLD[1] | RES_POIS[1]
+#values:RES_LIGHT[1] | RES_DARK[1] | RES_SOUND[1] | RES_SHARD[1] | RES_NETHER[1]
+#values:RES_NEXUS[1] | RES_CHAOS[1] | RES_DISEN[1]
+#desc:An adamant suit with scales of every color.  Untrammelled powers elemental 
+#desc:and ethereal swirl around it in an inextricably intermingled nimbus.
 
 
 name:18:'Mediator'

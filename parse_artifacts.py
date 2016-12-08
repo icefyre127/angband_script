@@ -52,6 +52,7 @@ def check_combos(items):
     boots = []
     bows = []
 
+    #seperate out equipment by type
     for item in items:
 #        print "ITEM: %s" % item
         if ("armour" in item.item_type):
@@ -75,43 +76,55 @@ def check_combos(items):
         elif (item.item_type in ["crown","helm"]):
            helmets.append(item)
 
+#    ring_combos = itertools.product(rings,rings)
+
+    
     combos = itertools.product(armours,weapons,amulets,helmets,gloves,rings,shields,boots,bows)
 
     
-    max_coverage = 0
-#   best_combos = []
+    max_coverage = 0  #maximum number of flags/resists found so far
+    best_combos = []  #stores all combinations of equipment with max coverage 
 
-    special_combo = "not found yet"
-    total_coverage = 0
+    
+    total_coverage = 0 
 
     for combo in combos:
-         valflag = []
+         valflag = []  #stores unignored resists/flags for equipment set 
          for item in combo:
-             if ["CURSED","AGGREVATE"] not in item.flags:
+             if ["CURSED","AGGREVATE"] not in item.flags: #exclude all cursed or aggrevation causing equipment
                  valflag += item.flags+item.resistances()
          total_coverage = len(set(valflag))
 
+         values = set(valflag) #get only unique resists/flags for equipment and store them in values
+
          if (total_coverage > max_coverage):
              max_coverage = total_coverage
-             special_combo = combo
-             values = set(valflag)
-             
-    print "winning combo is:\n"
+             best_combos = []
+             best_combos.append([values,combo])  #store combination of equipment as well as the actual resists/flags in a set
 
-    for item in special_combo:
-        print "Item: %s %s\n" % (item.base_name,item.qualifier)
-        
-    print "Valflag:\n%s" % values
+         elif (total_coverage == max_coverage):
+             best_combos.append([values,combo])
+         
+             
+    print "Best equipment combinations are:\n"
+
+
+    for combo in best_combos:
+#        print "\n==========\n"
+        for item in combo[1]:
+            print "%s: %s %s\n" % (item.item_type, item.base_name,item.qualifier)        
+        print "Valflag:\n%s\nNumber of flags/resists = %d" % (combo[0], len(combo[0]))
+        print "\n==========\n"
         
     # for array in [armours,weapons,amulets,helmets,gloves,lights,rings,shields,boots]:
     #     print "%s\n============\n" % array[0]
     #     for item in array[1:]:
     #         print item
-
+    print "Total number of combinations found: %d" % len(best_combos)
     
     
 
-with open("artifact.txt") as artifact_file:
+with open("artifact_test.txt") as artifact_file:
 
     description_flag = False
     artifacts = []
@@ -204,22 +217,19 @@ with open("artifact.txt") as artifact_file:
         if artifact.good():
             good_artifacts.append(artifact)
         
-             
-            
 
-
-    for artifact in artifacts:
-        print artifact
+    # for artifact in artifacts:
+    #     print artifact
     
     #print set(flags)
-            
-# demo = [1,3,5,7]
-# demo2 = [5,10,23,12]
-# demo3 = [99,100]
 
-# combo = itertools.product(demo,demo2,demo3)
+#    demo = [1,3,5,7]
+#    demo2 = [1,3,5,7]
 
-#for item in combo:
-#    print item
+
+#    combo = itertools.product(demo,demo2)
+
+#    for item in combo:
+#         print item
 
 check_combos(good_artifacts)
